@@ -15,7 +15,7 @@ Hello All,
 
 Please find the EMS library changes for event publishing and consumption from the `provider event bus` here: https://github.wdf.sap.corp/sap-health/fhir-server-framework/pull/620
 
-The following changes should be made to test the eventing scenario for PaaS tenants:
+The following changes should be made to test the eventing scenario for PaaS tenants:sdgsdg
 
 - Update the master fs EMS client (`sap-health-ems`) with this service tag: `sap-health-ems-fs`
 - Bind the master fs EMS client (`sap-health-ems`) with the event producer `bounded-context` (e.g. core-svc/provisioning-svc)
