@@ -53,7 +53,7 @@ sapHealthEventProducer.sendToProvider("core/valid", SAPEvent, props, 50000, scpT
   - ![image-20211001171207618](/Users/I353767/Documents/SAP Health/Eventing solution 4/saas-ui-role-collection.png)
   - Here the Review_Automated_Billing_Viewer will be deleted while unsubscribing
     - Should be assigned again to view the UI
-  - 
+  - test
 
 ## Testing
 
