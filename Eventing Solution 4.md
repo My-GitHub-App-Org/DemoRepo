@@ -9,7 +9,7 @@ test
   - yes. for prod we are overriding the namespace to be default/sap.health.fs/-
 - future scope
 - mind map
-- How the wrong mtaext is getting deployed test
+- How the wrong mtaext is getting deployed test updated
 
 Hello All,
 
