@@ -1,6 +1,6 @@
 # Eventing Solution 4
 
-## Open Points
+## Open Points test
 test
 - In EMS FITs currently not added tags for the ems credentials
 - Test the SaaS FITs
