@@ -19,3 +19,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FILTER_REGEX_EXCLUDE: .*.md
+  python-lint:
+    runs-on: ubuntu-latest
+    name: CI workflow
+    steps:
+    - name: checkout source repo
+      uses: actions/checkout@main
+
+    - name: linting
+      uses: programmingwithalex/pylinter@main
