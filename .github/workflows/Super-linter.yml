@@ -28,3 +28,8 @@ jobs:
 
     - name: linting
       uses: programmingwithalex/pylinter@main
+      with:
+        python-root: '.'
+        flake8-flags: ''
+        mypy-flags: ''
+        fail-on-isort: true
